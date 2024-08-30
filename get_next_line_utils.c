@@ -12,7 +12,7 @@
 
 #include "get_next_line.h"
 
-//sah
+
 void	addlast(t_list **head, char c)
 {
 	t_list	*new;
